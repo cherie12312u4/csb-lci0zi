@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://cherie12312u4.github.io/csb-lci0zi/static/css/main.18b35587.chunk.css",
+    "main.js": "https://cherie12312u4.github.io/csb-lci0zi/static/js/main.744990c7.chunk.js",
+    "main.js.map": "https://cherie12312u4.github.io/csb-lci0zi/static/js/main.744990c7.chunk.js.map",
+    "runtime-main.js": "https://cherie12312u4.github.io/csb-lci0zi/static/js/runtime-main.b16ad2de.js",
+    "runtime-main.js.map": "https://cherie12312u4.github.io/csb-lci0zi/static/js/runtime-main.b16ad2de.js.map",
+    "static/js/2.229ebda2.chunk.js": "https://cherie12312u4.github.io/csb-lci0zi/static/js/2.229ebda2.chunk.js",
+    "static/js/2.229ebda2.chunk.js.map": "https://cherie12312u4.github.io/csb-lci0zi/static/js/2.229ebda2.chunk.js.map",
+    "index.html": "https://cherie12312u4.github.io/csb-lci0zi/index.html",
+    "static/css/main.18b35587.chunk.css.map": "https://cherie12312u4.github.io/csb-lci0zi/static/css/main.18b35587.chunk.css.map",
+    "static/js/2.229ebda2.chunk.js.LICENSE.txt": "https://cherie12312u4.github.io/csb-lci0zi/static/js/2.229ebda2.chunk.js.LICENSE.txt",
+    "static/media/hero.styles.scss": "https://cherie12312u4.github.io/csb-lci0zi/static/media/splash2.734bda72.jpeg",
+    "static/media/studio-bag.0f3196ed.png": "https://cherie12312u4.github.io/csb-lci0zi/static/media/studio-bag.0f3196ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b16ad2de.js",
+    "static/js/2.229ebda2.chunk.js",
+    "static/css/main.18b35587.chunk.css",
+    "static/js/main.744990c7.chunk.js"
+  ]
+}
